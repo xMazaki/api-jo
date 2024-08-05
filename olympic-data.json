@@ -4,10 +4,10 @@
     "name": "Chine",
     "continent": "ASI",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
-    "gold_medals": 20,
+    "gold_medals": 21,
     "silver_medals": 16,
     "bronze_medals": 12,
-    "total_medals": 48,
+    "total_medals": 49,
     "rank": 1,
     "rank_total_medals": 2
   },
@@ -78,8 +78,8 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JPN.png",
     "gold_medals": 9,
     "silver_medals": 5,
-    "bronze_medals": 10,
-    "total_medals": 24,
+    "bronze_medals": 11,
+    "total_medals": 25,
     "rank": 7,
     "rank_total_medals": 7
   },
@@ -165,7 +165,7 @@
     "bronze_medals": 3,
     "total_medals": 6,
     "rank": 14,
-    "rank_total_medals": 18
+    "rank_total_medals": 19
   },
   {
     "id": "NZL",
@@ -197,11 +197,11 @@
     "continent": "EUR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UKR.png",
     "gold_medals": 2,
-    "silver_medals": 1,
+    "silver_medals": 2,
     "bronze_medals": 3,
-    "total_medals": 6,
+    "total_medals": 7,
     "rank": 17,
-    "rank_total_medals": 18
+    "rank_total_medals": 15
   },
   {
     "id": "CRO",
@@ -297,7 +297,7 @@
     "bronze_medals": 1,
     "total_medals": 6,
     "rank": 25,
-    "rank_total_medals": 18
+    "rank_total_medals": 19
   },
   {
     "id": "ESP",
@@ -333,7 +333,7 @@
     "bronze_medals": 4,
     "total_medals": 6,
     "rank": 28,
-    "rank_total_medals": 18
+    "rank_total_medals": 19
   },
   {
     "id": "RSA",
