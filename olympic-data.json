@@ -5,9 +5,9 @@
     "continent": "ASI",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
     "gold_medals": 20,
-    "silver_medals": 15,
+    "silver_medals": 16,
     "bronze_medals": 12,
-    "total_medals": 47,
+    "total_medals": 48,
     "rank": 1,
     "rank_total_medals": 2
   },
@@ -48,6 +48,18 @@
     "rank_total_medals": 5
   },
   {
+    "id": "KOR",
+    "name": "Corée (République démocratique du)",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
+    "gold_medals": 11,
+    "silver_medals": 8,
+    "bronze_medals": 7,
+    "total_medals": 26,
+    "rank": 5,
+    "rank_total_medals": 6
+  },
+  {
     "id": "GBR",
     "name": "Royaume-Uni",
     "continent": "EUR",
@@ -56,20 +68,8 @@
     "silver_medals": 12,
     "bronze_medals": 16,
     "total_medals": 38,
-    "rank": 5,
-    "rank_total_medals": 4
-  },
-  {
-    "id": "KOR",
-    "name": "Corée (République démocratique du)",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
-    "gold_medals": 10,
-    "silver_medals": 8,
-    "bronze_medals": 7,
-    "total_medals": 25,
     "rank": 6,
-    "rank_total_medals": 6
+    "rank_total_medals": 4
   },
   {
     "id": "JPN",
