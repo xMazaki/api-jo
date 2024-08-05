@@ -41,9 +41,9 @@
     "continent": "EUR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FRA.png",
     "gold_medals": 12,
-    "silver_medals": 15,
+    "silver_medals": 16,
     "bronze_medals": 18,
-    "total_medals": 45,
+    "total_medals": 46,
     "rank": 4,
     "rank_total_medals": 3
   },
@@ -96,6 +96,18 @@
     "rank_total_medals": 6
   },
   {
+    "id": "NED",
+    "name": "Países Baixos",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
+    "gold_medals": 7,
+    "silver_medals": 6,
+    "bronze_medals": 4,
+    "total_medals": 17,
+    "rank": 9,
+    "rank_total_medals": 9
+  },
+  {
     "id": "GER",
     "name": "Allemagne",
     "continent": "EUR",
@@ -104,20 +116,8 @@
     "silver_medals": 5,
     "bronze_medals": 4,
     "total_medals": 16,
-    "rank": 9,
-    "rank_total_medals": 10
-  },
-  {
-    "id": "NED",
-    "name": "Países Baixos",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
-    "gold_medals": 6,
-    "silver_medals": 6,
-    "bronze_medals": 4,
-    "total_medals": 16,
     "rank": 10,
-    "rank_total_medals": 10
+    "rank_total_medals": 11
   },
   {
     "id": "CAN",
