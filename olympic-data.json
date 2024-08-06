@@ -1,5 +1,17 @@
 [
   {
+    "id": "CHN",
+    "name": "Chine",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
+    "gold_medals": 22,
+    "silver_medals": 19,
+    "bronze_medals": 14,
+    "total_medals": 55,
+    "rank": 1,
+    "rank_total_medals": 2
+  },
+  {
     "id": "USA",
     "name": "Etats-Unis d'Amérique",
     "continent": "AME",
@@ -8,20 +20,8 @@
     "silver_medals": 30,
     "bronze_medals": 28,
     "total_medals": 79,
-    "rank": 1,
-    "rank_total_medals": 1
-  },
-  {
-    "id": "CHN",
-    "name": "Chine",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
-    "gold_medals": 21,
-    "silver_medals": 18,
-    "bronze_medals": 14,
-    "total_medals": 53,
     "rank": 2,
-    "rank_total_medals": 2
+    "rank_total_medals": 1
   },
   {
     "id": "FRA",
@@ -369,7 +369,7 @@
     "bronze_medals": 1,
     "total_medals": 3,
     "rank": 31,
-    "rank_total_medals": 31
+    "rank_total_medals": 32
   },
   {
     "id": "DEN",
@@ -405,7 +405,7 @@
     "bronze_medals": 2,
     "total_medals": 3,
     "rank": 34,
-    "rank_total_medals": 31
+    "rank_total_medals": 32
   },
   {
     "id": "GUA",
@@ -540,6 +540,18 @@
     "rank_total_medals": 51
   },
   {
+    "id": "PRK",
+    "name": "Corée (République populaire démocratique du)",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PRK.png",
+    "gold_medals": 0,
+    "silver_medals": 2,
+    "bronze_medals": 2,
+    "total_medals": 4,
+    "rank": 46,
+    "rank_total_medals": 25
+  },
+  {
     "id": "JAM",
     "name": "Jamaïque",
     "continent": "AME",
@@ -548,8 +560,8 @@
     "silver_medals": 2,
     "bronze_medals": 1,
     "total_medals": 3,
-    "rank": 46,
-    "rank_total_medals": 31
+    "rank": 47,
+    "rank_total_medals": 32
   },
   {
     "id": "MEX",
@@ -560,20 +572,8 @@
     "silver_medals": 2,
     "bronze_medals": 1,
     "total_medals": 3,
-    "rank": 46,
-    "rank_total_medals": 31
-  },
-  {
-    "id": "PRK",
-    "name": "Corée (République populaire démocratique du)",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PRK.png",
-    "gold_medals": 0,
-    "silver_medals": 2,
-    "bronze_medals": 1,
-    "total_medals": 3,
-    "rank": 46,
-    "rank_total_medals": 31
+    "rank": 47,
+    "rank_total_medals": 32
   },
   {
     "id": "ETH",
@@ -717,7 +717,7 @@
     "bronze_medals": 3,
     "total_medals": 3,
     "rank": 60,
-    "rank_total_medals": 31
+    "rank_total_medals": 32
   },
   {
     "id": "TJK",
@@ -729,7 +729,7 @@
     "bronze_medals": 3,
     "total_medals": 3,
     "rank": 60,
-    "rank_total_medals": 31
+    "rank_total_medals": 32
   },
   {
     "id": "DOM",
