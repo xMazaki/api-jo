@@ -96,28 +96,28 @@
     "rank_total_medals": 8
   },
   {
+    "id": "GER",
+    "name": "Allemagne",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png",
+    "gold_medals": 8,
+    "silver_medals": 5,
+    "bronze_medals": 4,
+    "total_medals": 17,
+    "rank": 9,
+    "rank_total_medals": 10
+  },
+  {
     "id": "NED",
     "name": "Países Baixos",
     "continent": "EUR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
     "gold_medals": 7,
     "silver_medals": 5,
-    "bronze_medals": 5,
-    "total_medals": 17,
-    "rank": 9,
-    "rank_total_medals": 9
-  },
-  {
-    "id": "GER",
-    "name": "Allemagne",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png",
-    "gold_medals": 7,
-    "silver_medals": 5,
-    "bronze_medals": 4,
-    "total_medals": 16,
+    "bronze_medals": 6,
+    "total_medals": 18,
     "rank": 10,
-    "rank_total_medals": 11
+    "rank_total_medals": 9
   },
   {
     "id": "CAN",
@@ -129,7 +129,7 @@
     "bronze_medals": 8,
     "total_medals": 17,
     "rank": 11,
-    "rank_total_medals": 9
+    "rank_total_medals": 10
   },
   {
     "id": "NZL",
@@ -189,7 +189,7 @@
     "bronze_medals": 3,
     "total_medals": 6,
     "rank": 16,
-    "rank_total_medals": 19
+    "rank_total_medals": 20
   },
   {
     "id": "BRA",
@@ -297,7 +297,7 @@
     "bronze_medals": 1,
     "total_medals": 6,
     "rank": 25,
-    "rank_total_medals": 19
+    "rank_total_medals": 20
   },
   {
     "id": "ESP",
@@ -312,6 +312,18 @@
     "rank_total_medals": 13
   },
   {
+    "id": "SUI",
+    "name": "Suíça",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SUI.png",
+    "gold_medals": 1,
+    "silver_medals": 2,
+    "bronze_medals": 4,
+    "total_medals": 7,
+    "rank": 27,
+    "rank_total_medals": 17
+  },
+  {
     "id": "GEO",
     "name": "Géorgie",
     "continent": "EUR",
@@ -320,20 +332,8 @@
     "silver_medals": 2,
     "bronze_medals": 1,
     "total_medals": 4,
-    "rank": 27,
-    "rank_total_medals": 25
-  },
-  {
-    "id": "SUI",
-    "name": "Suíça",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SUI.png",
-    "gold_medals": 1,
-    "silver_medals": 1,
-    "bronze_medals": 4,
-    "total_medals": 6,
     "rank": 28,
-    "rank_total_medals": 19
+    "rank_total_medals": 25
   },
   {
     "id": "RSA",
@@ -597,7 +597,7 @@
     "bronze_medals": 5,
     "total_medals": 6,
     "rank": 50,
-    "rank_total_medals": 19
+    "rank_total_medals": 20
   },
   {
     "id": "POL",
