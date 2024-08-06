@@ -864,6 +864,18 @@
     "rank_total_medals": 51
   },
   {
+    "id": "KGZ",
+    "name": "Kyrgyzstan",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KGZ.png",
+    "gold_medals": 0,
+    "silver_medals": 0,
+    "bronze_medals": 1,
+    "total_medals": 1,
+    "rank": 66,
+    "rank_total_medals": 51
+  },
+  {
     "id": "POR",
     "name": "Portugal",
     "continent": "EUR",
@@ -1576,18 +1588,6 @@
     "name": "Jordanie",
     "continent": "ASI",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JOR.png",
-    "gold_medals": 0,
-    "silver_medals": 0,
-    "bronze_medals": 0,
-    "total_medals": 0,
-    "rank": 0,
-    "rank_total_medals": 0
-  },
-  {
-    "id": "KGZ",
-    "name": "Kyrgyzstan",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KGZ.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 0,
