@@ -28,10 +28,10 @@
     "name": "Australie",
     "continent": "OCE",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUS.png",
-    "gold_medals": 14,
+    "gold_medals": 15,
     "silver_medals": 12,
     "bronze_medals": 10,
-    "total_medals": 36,
+    "total_medals": 37,
     "rank": 3,
     "rank_total_medals": 5
   },
@@ -696,6 +696,18 @@
     "rank_total_medals": 59
   },
   {
+    "id": "CYP",
+    "name": "Chypre",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CYP.png",
+    "gold_medals": 0,
+    "silver_medals": 1,
+    "bronze_medals": 0,
+    "total_medals": 1,
+    "rank": 58,
+    "rank_total_medals": 59
+  },
+  {
     "id": "COL",
     "name": "Colombie",
     "continent": "AME",
@@ -752,7 +764,7 @@
     "silver_medals": 0,
     "bronze_medals": 3,
     "total_medals": 3,
-    "rank": 63,
+    "rank": 64,
     "rank_total_medals": 34
   },
   {
@@ -764,7 +776,7 @@
     "silver_medals": 0,
     "bronze_medals": 3,
     "total_medals": 3,
-    "rank": 63,
+    "rank": 64,
     "rank_total_medals": 34
   },
   {
@@ -776,7 +788,7 @@
     "silver_medals": 0,
     "bronze_medals": 2,
     "total_medals": 2,
-    "rank": 65,
+    "rank": 66,
     "rank_total_medals": 41
   },
   {
@@ -788,7 +800,7 @@
     "silver_medals": 0,
     "bronze_medals": 2,
     "total_medals": 2,
-    "rank": 65,
+    "rank": 66,
     "rank_total_medals": 41
   },
   {
@@ -800,7 +812,7 @@
     "silver_medals": 0,
     "bronze_medals": 2,
     "total_medals": 2,
-    "rank": 65,
+    "rank": 66,
     "rank_total_medals": 41
   },
   {
@@ -812,7 +824,7 @@
     "silver_medals": 0,
     "bronze_medals": 2,
     "total_medals": 2,
-    "rank": 65,
+    "rank": 66,
     "rank_total_medals": 41
   },
   {
@@ -824,7 +836,7 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -836,7 +848,7 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -848,7 +860,7 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -860,7 +872,7 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -872,7 +884,7 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -884,7 +896,7 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -896,7 +908,19 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
+    "rank_total_medals": 59
+  },
+  {
+    "id": "PER",
+    "name": "Pérou",
+    "continent": "AME",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PER.png",
+    "gold_medals": 0,
+    "silver_medals": 0,
+    "bronze_medals": 1,
+    "total_medals": 1,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -908,7 +932,7 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 1,
-    "rank": 69,
+    "rank": 70,
     "rank_total_medals": 59
   },
   {
@@ -1204,18 +1228,6 @@
     "name": "Chade",
     "continent": "AFR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHA.png",
-    "gold_medals": 0,
-    "silver_medals": 0,
-    "bronze_medals": 0,
-    "total_medals": 0,
-    "rank": 0,
-    "rank_total_medals": 0
-  },
-  {
-    "id": "CYP",
-    "name": "Chypre",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CYP.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 0,
@@ -1996,18 +2008,6 @@
     "name": "Paraguai",
     "continent": "AME",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PAR.png",
-    "gold_medals": 0,
-    "silver_medals": 0,
-    "bronze_medals": 0,
-    "total_medals": 0,
-    "rank": 0,
-    "rank_total_medals": 0
-  },
-  {
-    "id": "PER",
-    "name": "Pérou",
-    "continent": "AME",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PER.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 0,
