@@ -4,10 +4,10 @@
     "name": "Etats-Unis d'Amérique",
     "continent": "AME",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
-    "gold_medals": 24,
+    "gold_medals": 25,
     "silver_medals": 32,
     "bronze_medals": 32,
-    "total_medals": 88,
+    "total_medals": 89,
     "rank": 1,
     "rank_total_medals": 1
   },
@@ -54,10 +54,10 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
     "gold_medals": 12,
     "silver_medals": 16,
-    "bronze_medals": 19,
-    "total_medals": 47,
+    "bronze_medals": 20,
+    "total_medals": 48,
     "rank": 5,
-    "rank_total_medals": 4
+    "rank_total_medals": 3
   },
   {
     "id": "KOR",
@@ -149,11 +149,11 @@
     "continent": "OCE",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NZL.png",
     "gold_medals": 3,
-    "silver_medals": 5,
+    "silver_medals": 6,
     "bronze_medals": 1,
-    "total_medals": 9,
+    "total_medals": 10,
     "rank": 13,
-    "rank_total_medals": 14
+    "rank_total_medals": 13
   },
   {
     "id": "HUN",
