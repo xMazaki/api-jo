@@ -4,10 +4,10 @@
     "name": "Etats-Unis d'Amérique",
     "continent": "AME",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
-    "gold_medals": 29,
-    "silver_medals": 37,
+    "gold_medals": 30,
+    "silver_medals": 38,
     "bronze_medals": 35,
-    "total_medals": 101,
+    "total_medals": 103,
     "rank": 1,
     "rank_total_medals": 1
   },
@@ -30,8 +30,8 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUS.png",
     "gold_medals": 18,
     "silver_medals": 14,
-    "bronze_medals": 12,
-    "total_medals": 44,
+    "bronze_medals": 13,
+    "total_medals": 45,
     "rank": 3,
     "rank_total_medals": 5
   },
@@ -60,6 +60,18 @@
     "rank_total_medals": 4
   },
   {
+    "id": "KOR",
+    "name": "Corée (République démocratique du)",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
+    "gold_medals": 13,
+    "silver_medals": 8,
+    "bronze_medals": 7,
+    "total_medals": 28,
+    "rank": 6,
+    "rank_total_medals": 8
+  },
+  {
     "id": "JPN",
     "name": "Japon",
     "continent": "ASI",
@@ -68,20 +80,8 @@
     "silver_medals": 7,
     "bronze_medals": 13,
     "total_medals": 33,
-    "rank": 6,
-    "rank_total_medals": 6
-  },
-  {
-    "id": "KOR",
-    "name": "Corée (République démocratique du)",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
-    "gold_medals": 12,
-    "silver_medals": 8,
-    "bronze_medals": 7,
-    "total_medals": 27,
     "rank": 7,
-    "rank_total_medals": 8
+    "rank_total_medals": 6
   },
   {
     "id": "NED",
@@ -228,6 +228,18 @@
     "rank_total_medals": 13
   },
   {
+    "id": "IRI",
+    "name": "Repúb. Islâmica Irã",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRI.png",
+    "gold_medals": 2,
+    "silver_medals": 2,
+    "bronze_medals": 2,
+    "total_medals": 6,
+    "rank": 20,
+    "rank_total_medals": 23
+  },
+  {
     "id": "CRO",
     "name": "Croatie",
     "continent": "EUR",
@@ -236,7 +248,7 @@
     "silver_medals": 1,
     "bronze_medals": 3,
     "total_medals": 6,
-    "rank": 20,
+    "rank": 21,
     "rank_total_medals": 23
   },
   {
@@ -248,20 +260,8 @@
     "silver_medals": 1,
     "bronze_medals": 3,
     "total_medals": 6,
-    "rank": 20,
+    "rank": 21,
     "rank_total_medals": 23
-  },
-  {
-    "id": "IRI",
-    "name": "Repúb. Islâmica Irã",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRI.png",
-    "gold_medals": 2,
-    "silver_medals": 1,
-    "bronze_medals": 2,
-    "total_medals": 5,
-    "rank": 22,
-    "rank_total_medals": 30
   },
   {
     "id": "AZE",
@@ -324,6 +324,18 @@
     "rank_total_medals": 35
   },
   {
+    "id": "INA",
+    "name": "Indonésia",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/INA.png",
+    "gold_medals": 2,
+    "silver_medals": 0,
+    "bronze_medals": 1,
+    "total_medals": 3,
+    "rank": 28,
+    "rank_total_medals": 46
+  },
+  {
     "id": "SRB",
     "name": "Sérvia",
     "continent": "EUR",
@@ -332,8 +344,8 @@
     "silver_medals": 0,
     "bronze_medals": 0,
     "total_medals": 2,
-    "rank": 28,
-    "rank_total_medals": 49
+    "rank": 29,
+    "rank_total_medals": 51
   },
   {
     "id": "ISR",
@@ -344,7 +356,7 @@
     "silver_medals": 4,
     "bronze_medals": 1,
     "total_medals": 6,
-    "rank": 29,
+    "rank": 30,
     "rank_total_medals": 23
   },
   {
@@ -356,7 +368,7 @@
     "silver_medals": 3,
     "bronze_medals": 3,
     "total_medals": 7,
-    "rank": 30,
+    "rank": 31,
     "rank_total_medals": 19
   },
   {
@@ -366,10 +378,22 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JAM.png",
     "gold_medals": 1,
     "silver_medals": 3,
-    "bronze_medals": 1,
-    "total_medals": 5,
-    "rank": 31,
-    "rank_total_medals": 30
+    "bronze_medals": 2,
+    "total_medals": 6,
+    "rank": 32,
+    "rank_total_medals": 23
+  },
+  {
+    "id": "THA",
+    "name": "Thaïlande",
+    "continent": "ASI",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/THA.png",
+    "gold_medals": 1,
+    "silver_medals": 3,
+    "bronze_medals": 2,
+    "total_medals": 6,
+    "rank": 32,
+    "rank_total_medals": 23
   },
   {
     "id": "SUI",
@@ -380,20 +404,8 @@
     "silver_medals": 2,
     "bronze_medals": 4,
     "total_medals": 7,
-    "rank": 32,
+    "rank": 34,
     "rank_total_medals": 19
-  },
-  {
-    "id": "THA",
-    "name": "Thaïlande",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/THA.png",
-    "gold_medals": 1,
-    "silver_medals": 2,
-    "bronze_medals": 2,
-    "total_medals": 5,
-    "rank": 33,
-    "rank_total_medals": 30
   },
   {
     "id": "DEN",
@@ -404,7 +416,7 @@
     "silver_medals": 2,
     "bronze_medals": 1,
     "total_medals": 4,
-    "rank": 34,
+    "rank": 35,
     "rank_total_medals": 35
   },
   {
@@ -416,7 +428,7 @@
     "silver_medals": 2,
     "bronze_medals": 1,
     "total_medals": 4,
-    "rank": 34,
+    "rank": 35,
     "rank_total_medals": 35
   },
   {
@@ -428,8 +440,8 @@
     "silver_medals": 2,
     "bronze_medals": 0,
     "total_medals": 3,
-    "rank": 36,
-    "rank_total_medals": 45
+    "rank": 37,
+    "rank_total_medals": 46
   },
   {
     "id": "GRE",
@@ -440,7 +452,7 @@
     "silver_medals": 1,
     "bronze_medals": 5,
     "total_medals": 7,
-    "rank": 37,
+    "rank": 38,
     "rank_total_medals": 19
   },
   {
@@ -452,7 +464,7 @@
     "silver_medals": 1,
     "bronze_medals": 4,
     "total_medals": 6,
-    "rank": 38,
+    "rank": 39,
     "rank_total_medals": 23
   },
   {
@@ -464,8 +476,8 @@
     "silver_medals": 1,
     "bronze_medals": 3,
     "total_medals": 5,
-    "rank": 39,
-    "rank_total_medals": 30
+    "rank": 40,
+    "rank_total_medals": 33
   },
   {
     "id": "RSA",
@@ -476,7 +488,7 @@
     "silver_medals": 1,
     "bronze_medals": 2,
     "total_medals": 4,
-    "rank": 40,
+    "rank": 41,
     "rank_total_medals": 35
   },
   {
@@ -488,8 +500,8 @@
     "silver_medals": 1,
     "bronze_medals": 0,
     "total_medals": 2,
-    "rank": 41,
-    "rank_total_medals": 49
+    "rank": 42,
+    "rank_total_medals": 51
   },
   {
     "id": "CHI",
@@ -500,8 +512,8 @@
     "silver_medals": 1,
     "bronze_medals": 0,
     "total_medals": 2,
-    "rank": 41,
-    "rank_total_medals": 49
+    "rank": 42,
+    "rank_total_medals": 51
   },
   {
     "id": "LCA",
@@ -512,8 +524,8 @@
     "silver_medals": 1,
     "bronze_medals": 0,
     "total_medals": 2,
-    "rank": 41,
-    "rank_total_medals": 49
+    "rank": 42,
+    "rank_total_medals": 51
   },
   {
     "id": "UGA",
@@ -524,8 +536,8 @@
     "silver_medals": 1,
     "bronze_medals": 0,
     "total_medals": 2,
-    "rank": 41,
-    "rank_total_medals": 49
+    "rank": 42,
+    "rank_total_medals": 51
   },
   {
     "id": "TPE",
@@ -536,8 +548,20 @@
     "silver_medals": 0,
     "bronze_medals": 5,
     "total_medals": 6,
-    "rank": 45,
+    "rank": 46,
     "rank_total_medals": 23
+  },
+  {
+    "id": "BUL",
+    "name": "Bulgária",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BUL.png",
+    "gold_medals": 1,
+    "silver_medals": 0,
+    "bronze_medals": 3,
+    "total_medals": 4,
+    "rank": 47,
+    "rank_total_medals": 35
   },
   {
     "id": "AUT",
@@ -548,20 +572,8 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 2,
-    "rank": 46,
-    "rank_total_medals": 49
-  },
-  {
-    "id": "BUL",
-    "name": "Bulgária",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BUL.png",
-    "gold_medals": 1,
-    "silver_medals": 0,
-    "bronze_medals": 1,
-    "total_medals": 2,
-    "rank": 46,
-    "rank_total_medals": 49
+    "rank": 48,
+    "rank_total_medals": 51
   },
   {
     "id": "GUA",
@@ -572,20 +584,8 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 2,
-    "rank": 46,
-    "rank_total_medals": 49
-  },
-  {
-    "id": "INA",
-    "name": "Indonésia",
-    "continent": "ASI",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/INA.png",
-    "gold_medals": 1,
-    "silver_medals": 0,
-    "bronze_medals": 1,
-    "total_medals": 2,
-    "rank": 46,
-    "rank_total_medals": 49
+    "rank": 48,
+    "rank_total_medals": 51
   },
   {
     "id": "MAR",
@@ -596,8 +596,8 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 2,
-    "rank": 46,
-    "rank_total_medals": 49
+    "rank": 48,
+    "rank_total_medals": 51
   },
   {
     "id": "NOR",
@@ -608,8 +608,8 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 2,
-    "rank": 46,
-    "rank_total_medals": 49
+    "rank": 48,
+    "rank_total_medals": 51
   },
   {
     "id": "CZE",
@@ -620,8 +620,8 @@
     "silver_medals": 0,
     "bronze_medals": 1,
     "total_medals": 2,
-    "rank": 46,
-    "rank_total_medals": 49
+    "rank": 48,
+    "rank_total_medals": 51
   },
   {
     "id": "ALG",
@@ -729,7 +729,7 @@
     "bronze_medals": 1,
     "total_medals": 3,
     "rank": 61,
-    "rank_total_medals": 45
+    "rank_total_medals": 46
   },
   {
     "id": "ETH",
@@ -741,7 +741,7 @@
     "bronze_medals": 0,
     "total_medals": 2,
     "rank": 62,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "IND",
@@ -753,7 +753,7 @@
     "bronze_medals": 4,
     "total_medals": 5,
     "rank": 63,
-    "rank_total_medals": 30
+    "rank_total_medals": 33
   },
   {
     "id": "KGZ",
@@ -789,7 +789,7 @@
     "bronze_medals": 2,
     "total_medals": 3,
     "rank": 66,
-    "rank_total_medals": 45
+    "rank_total_medals": 46
   },
   {
     "id": "KOS",
@@ -801,7 +801,7 @@
     "bronze_medals": 1,
     "total_medals": 2,
     "rank": 67,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "POR",
@@ -813,7 +813,7 @@
     "bronze_medals": 1,
     "total_medals": 2,
     "rank": 67,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "TUN",
@@ -825,7 +825,7 @@
     "bronze_medals": 1,
     "total_medals": 2,
     "rank": 67,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "CYP",
@@ -897,7 +897,7 @@
     "bronze_medals": 3,
     "total_medals": 3,
     "rank": 75,
-    "rank_total_medals": 45
+    "rank_total_medals": 46
   },
   {
     "id": "DOM",
@@ -909,7 +909,7 @@
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 76,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "GRN",
@@ -921,7 +921,7 @@
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 76,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "MAS",
@@ -933,7 +933,7 @@
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 76,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "MDA",
@@ -945,7 +945,7 @@
     "bronze_medals": 2,
     "total_medals": 2,
     "rank": 76,
-    "rank_total_medals": 49
+    "rank_total_medals": 51
   },
   {
     "id": "CPV",
@@ -1000,6 +1000,18 @@
     "name": "Zâmbia",
     "continent": "AFR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ZAM.png",
+    "gold_medals": 0,
+    "silver_medals": 0,
+    "bronze_medals": 1,
+    "total_medals": 1,
+    "rank": 80,
+    "rank_total_medals": 69
+  },
+  {
+    "id": "EOR",
+    "name": "EOR",
+    "continent": "",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/EOR.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 1,
@@ -2392,18 +2404,6 @@
     "name": "Zimbábue",
     "continent": "AFR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ZIM.png",
-    "gold_medals": 0,
-    "silver_medals": 0,
-    "bronze_medals": 0,
-    "total_medals": 0,
-    "rank": 0,
-    "rank_total_medals": 0
-  },
-  {
-    "id": "EOR",
-    "name": "EOR",
-    "continent": "",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/EOR.png",
     "gold_medals": 0,
     "silver_medals": 0,
     "bronze_medals": 0,
