@@ -113,9 +113,9 @@
     "continent": "EUR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png",
     "gold_medals": 9,
-    "silver_medals": 8,
+    "silver_medals": 9,
     "bronze_medals": 5,
-    "total_medals": 22,
+    "total_medals": 23,
     "rank": 10,
     "rank_total_medals": 10
   },
@@ -144,6 +144,18 @@
     "rank_total_medals": 13
   },
   {
+    "id": "HUN",
+    "name": "Hongrie",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HUN.png",
+    "gold_medals": 4,
+    "silver_medals": 3,
+    "bronze_medals": 4,
+    "total_medals": 11,
+    "rank": 13,
+    "rank_total_medals": 15
+  },
+  {
     "id": "IRL",
     "name": "Irlande",
     "continent": "EUR",
@@ -152,7 +164,7 @@
     "silver_medals": 0,
     "bronze_medals": 3,
     "total_medals": 7,
-    "rank": 13,
+    "rank": 14,
     "rank_total_medals": 19
   },
   {
@@ -164,7 +176,7 @@
     "silver_medals": 4,
     "bronze_medals": 1,
     "total_medals": 8,
-    "rank": 14,
+    "rank": 15,
     "rank_total_medals": 18
   },
   {
@@ -176,18 +188,6 @@
     "silver_medals": 3,
     "bronze_medals": 4,
     "total_medals": 10,
-    "rank": 15,
-    "rank_total_medals": 15
-  },
-  {
-    "id": "HUN",
-    "name": "Hongrie",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HUN.png",
-    "gold_medals": 3,
-    "silver_medals": 3,
-    "bronze_medals": 3,
-    "total_medals": 9,
     "rank": 16,
     "rank_total_medals": 16
   },
@@ -200,8 +200,8 @@
     "silver_medals": 3,
     "bronze_medals": 3,
     "total_medals": 9,
-    "rank": 16,
-    "rank_total_medals": 16
+    "rank": 17,
+    "rank_total_medals": 17
   },
   {
     "id": "UZB",
