@@ -53,9 +53,9 @@
     "continent": "EUR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
     "gold_medals": 14,
-    "silver_medals": 17,
+    "silver_medals": 18,
     "bronze_medals": 21,
-    "total_medals": 52,
+    "total_medals": 53,
     "rank": 5,
     "rank_total_medals": 4
   },
@@ -84,6 +84,18 @@
     "rank_total_medals": 8
   },
   {
+    "id": "ITA",
+    "name": "Italie",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ITA.png",
+    "gold_medals": 11,
+    "silver_medals": 11,
+    "bronze_medals": 11,
+    "total_medals": 33,
+    "rank": 8,
+    "rank_total_medals": 7
+  },
+  {
     "id": "GER",
     "name": "Allemagne",
     "continent": "EUR",
@@ -92,7 +104,7 @@
     "silver_medals": 9,
     "bronze_medals": 7,
     "total_medals": 27,
-    "rank": 8,
+    "rank": 9,
     "rank_total_medals": 9
   },
   {
@@ -102,22 +114,10 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
     "gold_medals": 11,
     "silver_medals": 6,
-    "bronze_medals": 8,
-    "total_medals": 25,
-    "rank": 9,
-    "rank_total_medals": 10
-  },
-  {
-    "id": "ITA",
-    "name": "Italie",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ITA.png",
-    "gold_medals": 10,
-    "silver_medals": 11,
-    "bronze_medals": 11,
-    "total_medals": 32,
+    "bronze_medals": 9,
+    "total_medals": 26,
     "rank": 10,
-    "rank_total_medals": 7
+    "rank_total_medals": 10
   },
   {
     "id": "NZL",
