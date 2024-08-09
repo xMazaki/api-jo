@@ -16,10 +16,10 @@
     "name": "Etats-Unis d'Amérique",
     "continent": "AME",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
-    "gold_medals": 30,
+    "gold_medals": 31,
     "silver_medals": 38,
     "bronze_medals": 36,
-    "total_medals": 104,
+    "total_medals": 105,
     "rank": 2,
     "rank_total_medals": 1
   },
@@ -53,9 +53,9 @@
     "continent": "EUR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
     "gold_medals": 14,
-    "silver_medals": 18,
+    "silver_medals": 19,
     "bronze_medals": 21,
-    "total_medals": 53,
+    "total_medals": 54,
     "rank": 5,
     "rank_total_medals": 4
   },
@@ -102,10 +102,10 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png",
     "gold_medals": 11,
     "silver_medals": 9,
-    "bronze_medals": 7,
-    "total_medals": 27,
+    "bronze_medals": 8,
+    "total_medals": 28,
     "rank": 9,
-    "rank_total_medals": 9
+    "rank_total_medals": 8
   },
   {
     "id": "NED",
@@ -213,7 +213,7 @@
     "bronze_medals": 2,
     "total_medals": 5,
     "rank": 18,
-    "rank_total_medals": 34
+    "rank_total_medals": 35
   },
   {
     "id": "BRA",
@@ -513,7 +513,7 @@
     "bronze_medals": 3,
     "total_medals": 5,
     "rank": 43,
-    "rank_total_medals": 34
+    "rank_total_medals": 35
   },
   {
     "id": "RSA",
@@ -717,7 +717,7 @@
     "bronze_medals": 3,
     "total_medals": 5,
     "rank": 60,
-    "rank_total_medals": 34
+    "rank_total_medals": 35
   },
   {
     "id": "MEX",
@@ -774,10 +774,10 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IND.png",
     "gold_medals": 0,
     "silver_medals": 1,
-    "bronze_medals": 4,
-    "total_medals": 5,
+    "bronze_medals": 5,
+    "total_medals": 6,
     "rank": 65,
-    "rank_total_medals": 34
+    "rank_total_medals": 23
   },
   {
     "id": "KGZ",
