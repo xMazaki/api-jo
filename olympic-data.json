@@ -78,10 +78,10 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
     "gold_medals": 13,
     "silver_medals": 8,
-    "bronze_medals": 7,
-    "total_medals": 28,
+    "bronze_medals": 8,
+    "total_medals": 29,
     "rank": 7,
-    "rank_total_medals": 10
+    "rank_total_medals": 9
   },
   {
     "id": "NED",
