@@ -90,8 +90,8 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
     "gold_medals": 13,
     "silver_medals": 6,
-    "bronze_medals": 10,
-    "total_medals": 29,
+    "bronze_medals": 11,
+    "total_medals": 30,
     "rank": 8,
     "rank_total_medals": 8
   },
@@ -105,7 +105,7 @@
     "bronze_medals": 8,
     "total_medals": 29,
     "rank": 9,
-    "rank_total_medals": 8
+    "rank_total_medals": 9
   },
   {
     "id": "ITA",
@@ -285,7 +285,7 @@
     "bronze_medals": 1,
     "total_medals": 5,
     "rank": 24,
-    "rank_total_medals": 38
+    "rank_total_medals": 39
   },
   {
     "id": "KEN",
@@ -468,6 +468,18 @@
     "rank_total_medals": 19
   },
   {
+    "id": "DEN",
+    "name": "Dinamarca",
+    "continent": "EUR",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DEN.png",
+    "gold_medals": 1,
+    "silver_medals": 2,
+    "bronze_medals": 3,
+    "total_medals": 6,
+    "rank": 40,
+    "rank_total_medals": 29
+  },
+  {
     "id": "RSA",
     "name": "África do Sul",
     "continent": "AFR",
@@ -476,20 +488,8 @@
     "silver_medals": 2,
     "bronze_medals": 2,
     "total_medals": 5,
-    "rank": 40,
-    "rank_total_medals": 38
-  },
-  {
-    "id": "DEN",
-    "name": "Dinamarca",
-    "continent": "EUR",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DEN.png",
-    "gold_medals": 1,
-    "silver_medals": 2,
-    "bronze_medals": 2,
-    "total_medals": 5,
-    "rank": 40,
-    "rank_total_medals": 38
+    "rank": 41,
+    "rank_total_medals": 39
   },
   {
     "id": "ECU",
@@ -753,7 +753,7 @@
     "bronze_medals": 2,
     "total_medals": 5,
     "rank": 63,
-    "rank_total_medals": 38
+    "rank_total_medals": 39
   },
   {
     "id": "COL",
