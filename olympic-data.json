@@ -1,5 +1,17 @@
 [
   {
+    "id": "USA",
+    "name": "Etats-Unis d'Amérique",
+    "continent": "AME",
+    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
+    "gold_medals": 40,
+    "silver_medals": 44,
+    "bronze_medals": 42,
+    "total_medals": 126,
+    "rank": 1,
+    "rank_total_medals": 1
+  },
+  {
     "id": "CHN",
     "name": "Chine",
     "continent": "ASI",
@@ -8,20 +20,8 @@
     "silver_medals": 27,
     "bronze_medals": 24,
     "total_medals": 91,
-    "rank": 1,
-    "rank_total_medals": 2
-  },
-  {
-    "id": "USA",
-    "name": "Etats-Unis d'Amérique",
-    "continent": "AME",
-    "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
-    "gold_medals": 39,
-    "silver_medals": 44,
-    "bronze_medals": 42,
-    "total_medals": 125,
     "rank": 2,
-    "rank_total_medals": 1
+    "rank_total_medals": 2
   },
   {
     "id": "JPN",
@@ -53,9 +53,9 @@
     "continent": "EUR",
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FRA.png",
     "gold_medals": 16,
-    "silver_medals": 25,
+    "silver_medals": 26,
     "bronze_medals": 22,
-    "total_medals": 63,
+    "total_medals": 64,
     "rank": 5,
     "rank_total_medals": 4
   },
