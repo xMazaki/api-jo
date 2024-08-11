@@ -18,8 +18,8 @@
     "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
     "gold_medals": 38,
     "silver_medals": 42,
-    "bronze_medals": 42,
-    "total_medals": 122,
+    "bronze_medals": 43,
+    "total_medals": 123,
     "rank": 2,
     "rank_total_medals": 1
   },
